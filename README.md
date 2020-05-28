@@ -30,12 +30,15 @@ In order to pre-process the datasets appropriately for CLOCS and the downstream 
 
 To train the model(s) in the paper, run this command:
 
-'python run_experiments.py'
+```
+python run_experiments.py
+```
 
 # Evaluation
 
 To evaluate the model(s) in the paper, run this command:
 
-'python run_experiments.py'
-
+```
+python run_experiments.py
+```
 
