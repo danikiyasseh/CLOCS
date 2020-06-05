@@ -2,7 +2,7 @@
 
 CLOCS is a patient-specific contrastive learning method that can be used to pre-train medical time-series data. It can improve the generalization performance of downstream supervised tasks.
 
-This method is described in "CLOCS: Contrastive Learning of Cardiac Signals" (https://arxiv.org/abs/2005.13249)
+This method is described in "CLOCS: Contrastive Learning of Cardiac Signals"
 
 # Requirements
 
