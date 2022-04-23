@@ -25,7 +25,7 @@ The datasets can be downloaded from the following links:
 
 ### Pre-processing
 
-In order to pre-process the datasets appropriately for CLOCS and the downstream supervised tasks, please refer to the following repository: https://anonymous.4open.science/r/9ecc66f3-e173-4771-90ce-ff35ee29a1c0/
+In order to pre-process the datasets appropriately for CLOCS and the downstream supervised tasks, please refer to the following [repository](https://github.com/danikiyasseh/loading-physiological-data)
 
 ## Training
 
