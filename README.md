@@ -3,7 +3,7 @@
 CLOCS is a patient-specific contrastive learning method that can be used to pre-train neural networks on medical time-series data. It can improve the generalization performance of such networks when trained and deployed on downstream supervised tasks with limited labelled data.
 
 This repository contains a PyTorch implementation of CLOCS. For details, see 
-[ICML paper](http://proceedings.mlr.press/v139/kiyasseh21a/kiyasseh21a.pdf)
+[[ICML paper](http://proceedings.mlr.press/v139/kiyasseh21a/kiyasseh21a.pdf)]
 
 # Requirements
 
