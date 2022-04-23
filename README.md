@@ -7,8 +7,6 @@ This repository contains a PyTorch implementation of CLOCS. For details, see **C
 
 ## Requirements
 
-***
-
 The CLOCS code requires the following:
 
 * Python 3.6 or higher
