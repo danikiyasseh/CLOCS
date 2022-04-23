@@ -18,10 +18,10 @@ The CLOCS code requires the following:
 
 The datasets can be downloaded from the following links:
 
-1) PhysioNet 2020: https://physionetchallenges.github.io/2020/
-2) Chapman: https://figshare.com/collections/ChapmanECG/4560497/2
-3) Cardiology: https://irhythm.github.io/cardiol_test_set/
-4) PhysioNet 2017: https://physionet.org/content/challenge-2017/1.0.0/
+1) [PhysioNet 2020](https://physionetchallenges.github.io/2020/)
+2) [Chapman](https://figshare.com/collections/ChapmanECG/4560497/2)
+3) [Cardiology](https://irhythm.github.io/cardiol_test_set/)
+4) [PhysioNet 2017](https://physionet.org/content/challenge-2017/1.0.0/)
 
 ### Pre-processing
 
