@@ -6,7 +6,9 @@ This repository contains a PyTorch implementation of CLOCS. For details, see **C
 [[ICML paper](http://proceedings.mlr.press/v139/kiyasseh21a/kiyasseh21a.pdf)] [[blogpost](https://danikiyasseh.github.io/blogs/CLOCS/index.html)] [[video](https://icml.cc/virtual/2021/spotlight/8462)]
 
 ## Requirements
+
 ***
+
 The CLOCS code requires the following:
 
 * Python 3.6 or higher
