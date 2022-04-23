@@ -5,16 +5,16 @@ CLOCS is a patient-specific contrastive learning method that can be used to pre-
 This repository contains a PyTorch implementation of CLOCS. For details, see **CLOCS: Contrastive Learning of Cardiac Signals Across Space, Time, and Patients**.
 [[ICML paper](http://proceedings.mlr.press/v139/kiyasseh21a/kiyasseh21a.pdf)] [[blogpost](https://danikiyasseh.github.io/blogs/CLOCS/index.html)] [[video](https://icml.cc/virtual/2021/spotlight/8462)]
 
-# Requirements
-
-The CLOCS code requires
+## Requirements
+***
+The CLOCS code requires the following:
 
 * Python 3.6 or higher
 * PyTorch 1.0 or higher
 
-# Datasets
+## Datasets
 
-## Download
+### Download
 
 The datasets can be downloaded from the following links:
 
@@ -23,11 +23,11 @@ The datasets can be downloaded from the following links:
 3) Cardiology: https://irhythm.github.io/cardiol_test_set/
 4) PhysioNet 2017: https://physionet.org/content/challenge-2017/1.0.0/
 
-## Pre-processing
+### Pre-processing
 
 In order to pre-process the datasets appropriately for CLOCS and the downstream supervised tasks, please refer to the following repository: https://anonymous.4open.science/r/9ecc66f3-e173-4771-90ce-ff35ee29a1c0/
 
-# Training
+## Training
 
 To train the model(s) in the paper, run this command:
 
@@ -35,7 +35,7 @@ To train the model(s) in the paper, run this command:
 python run_experiments.py
 ```
 
-# Evaluation
+## Evaluation
 
 To evaluate the model(s) in the paper, run this command:
 
