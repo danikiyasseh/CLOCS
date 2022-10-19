@@ -54,3 +54,16 @@ To evaluate the model(s) in the paper, run this command:
 python run_experiments.py
 ```
 
+## Citing
+
+If you use our code in your research, please consider citing with the following BibTex.
+```text
+@inproceedings{kiyasseh2021clocs,
+  title={Clocs: Contrastive learning of cardiac signals across space, time, and patients},
+  author={Kiyasseh, Dani and Zhu, Tingting and Clifton, David A},
+  booktitle={International Conference on Machine Learning},
+  pages={5606--5615},
+  year={2021},
+  organization={PMLR}
+}
+```
